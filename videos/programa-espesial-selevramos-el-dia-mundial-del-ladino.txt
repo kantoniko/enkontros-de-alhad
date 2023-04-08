@@ -4,7 +4,7 @@ titulo: Programa Espesial "Selevramos el Dia Mundial del Ladino"
 data: 2023.03.19
 balabaya:
 musafires:
-id:
+id: 120
 ---
 
 Keridos amigos
