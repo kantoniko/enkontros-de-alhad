@@ -4,5 +4,6 @@ titulo: Dos Mansevos de Izmir
 data: 2023.04.02
 balabaya: Rachel Amado Bortnick
 musafires: Besim Amado, Jak Arditi
+id: 122
 ---
 
