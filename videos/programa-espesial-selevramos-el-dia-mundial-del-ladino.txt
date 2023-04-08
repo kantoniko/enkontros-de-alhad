@@ -1,5 +1,5 @@
 ---
-video: https://www.youtube.com/watch?v=cL-ctrwef5g
+url: https://www.youtube.com/watch?v=cL-ctrwef5g
 titulo: Programa Espesial "Selevramos el Dia Mundial del Ladino"
 data: 2023.03.19
 balabaya:
