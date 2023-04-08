@@ -1,5 +1,5 @@
-# Subtitle for the videos of Enkontros de Alhad
+# Subtititulos de los filmikos de Enkontros de Alhad
 
 
-* https://esefarad.com/TV/
-* thttps://www.youtube.com/channel/UCSwyaSI6GKrkvo0aRwWn3JA
+* [Enkontros de Alhad en eSefarad](https://esefarad.com/TV/)
+* [eSefarad en YouTube](https://www.youtube.com/channel/UCSwyaSI6GKrkvo0aRwWn3JA)
