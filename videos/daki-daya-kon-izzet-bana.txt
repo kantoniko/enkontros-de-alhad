@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=CLDzzLd-lRw
+titulo: D’aki D’aya kon Izzet Bana
+data: 2022.09.11
+balabaya: Rachel Amado Bortnick
+musafires: Izzet Bana
+id: 99
+---
+
