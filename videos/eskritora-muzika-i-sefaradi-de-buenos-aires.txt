@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=krlfouicpgU
+titulo: Eskritora, muzika i sefaradi de Buenos Aires
+data: 2023.04.23
+balabaya: Liliana Benveniste
+musafires: Graciela Tevah
+id:
+---
+
