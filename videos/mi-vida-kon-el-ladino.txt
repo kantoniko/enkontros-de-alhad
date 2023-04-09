@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=cP6G1r83eJM
+titulo: Mi Vida kon el Ladino
+data: 2022.08.28
+balabaya: Rachel Amado Bortnick
+musafires: Paloma Dias-Mas
+id: 97
+---
+

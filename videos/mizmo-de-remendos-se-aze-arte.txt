@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=_2l_x5akMdo
+titulo: Mizmo de Remendos se aze Arte
+data: 2022.09.04
+balabaya: Karen Sharhon
+musafires: Eti Koen
+id: 98
+---
+
