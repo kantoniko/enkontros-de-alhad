@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=ZBgR-fnMss8
+titulo: Rachel Amado Bortnick entrevista a Moshe Shaul
+data: 2020.08.16
+balabaya:
+musafires:
+id: 2
+---
+

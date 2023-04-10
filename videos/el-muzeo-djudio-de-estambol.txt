@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=ckY9fhOy0UU
+titulo: El Muzeo Djudio de Estambol
+data: 2020.08.23
+balabaya: Karen Sharhon
+musafires: Silvyo Ovadia
+id: 3
+---
+
