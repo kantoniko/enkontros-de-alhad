@@ -1,7 +1,7 @@
 ---
 url: https://www.youtube.com/watch?v=gPfncpVLgms
 titulo: Aktivistas Mansevos del Ladino
-data: 2023.04.02
+data: 2023.04.16
 balabaya: Bryan Kirschen
 musafires: Esther Rute
 id:
