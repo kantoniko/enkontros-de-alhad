@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=M3oW9wZqt_k
+titulo: De Dor en Dor: El ladino en los Estados Unidos
+data: 2020.08.30
+balabaya: Bryan Kirschen
+musafires: Dr. Joe Halio
+id: 4
+---
+

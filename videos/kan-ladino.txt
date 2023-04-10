@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=6l-oJPicb6k
+titulo: Kan Ladino
+data: 2020.09.13
+balabaya: Liliana Benveniste
+musafires: Alegra Amado, Kobi Zarko
+id: 6
+---
+

@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=fMGcDVvEuLE
+titulo: Mueva Akademia Nasionala del Ladino
+data: 2020.09.06
+balabaya: Shmuel Refael
+musafires: Prof. Ora Schwarzwald
+id: 5
+---
+
