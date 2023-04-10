@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=1sAknTzK9a8
+titulo: La Liturjia Sefaradi
+data: 2020.11.01
+balabaya: Rav Nissim Elnecave
+musafires: Hazan Issac Azose
+id: 10
+---
+
