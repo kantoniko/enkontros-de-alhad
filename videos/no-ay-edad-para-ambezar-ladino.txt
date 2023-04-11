@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=VX-DCBb-GEk
+titulo: No ay edad para ambezar ladino
+data: 2021.04.18
+balabaya: Nivi Gomel
+musafires: Dr. Dov Cohen
+id: 32
+---
+

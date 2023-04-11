@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=JNj9ZqEbJ-A
+titulo: Turkiya i las kozas ke no se avlan muncho
+data: 2021.05.30
+balabaya: Tamar Alexander
+musafires: Albert Israel
+id: 37
+---
+

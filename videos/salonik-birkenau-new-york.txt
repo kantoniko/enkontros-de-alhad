@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=3fjYh5Wh8oE
+titulo: El Dr. Albert Menache su livro: Birkenau (Salonik-Brikenau-New York)
+data: 2021.05.02
+balabaya: Rachel Amado Bortnick
+musafires: Joe Halio
+id: 34
+---
+

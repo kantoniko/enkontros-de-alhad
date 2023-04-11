@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=JSX1DYaCZd0
+titulo: De Izmir a Estambol
+data: 2021.03.21
+balabaya: Rav Nissim Elnecave
+musafires: Rabino Izak Alaluf
+id: 30
+---
+

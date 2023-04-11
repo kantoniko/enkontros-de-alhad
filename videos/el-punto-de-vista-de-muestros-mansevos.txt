@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=MEUqKKlxWzo
+titulo: El punto de vista de muestros mansevos
+data: 2021.05.09
+balabaya: Karen Sharhon
+musafires: Henri Ciprut, Karel Valansi
+id: 35
+---
+

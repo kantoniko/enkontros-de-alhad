@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=eekGzRqvJtg
+titulo: Un projekto de vida en torno a la kultura sefaradi
+data: 2021.05.23
+balabaya: Bryan Kirschen
+musafires: Liliana Benveniste
+id: 36
+---
+
