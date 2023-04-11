@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=8u3zlW1peNc
+titulo: Ambezar el ladino, la lingua biva
+data: 2021.01.31
+balabaya: Bryan Kirschen
+musafires: Daisy Braverman, Gloria Asher
+id: 23
+---
+

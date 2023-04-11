@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=rPoFr_vEatc
+titulo: El gizado de Los Muestros: Borekas i Berengenas
+data: 2023.04.02
+balabaya: Jenny Laneurie
+musafires: Edmond Cohen, Stella Gutman
+id: 26
+---
+
