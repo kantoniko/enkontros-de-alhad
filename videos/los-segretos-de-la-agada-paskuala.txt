@@ -4,24 +4,24 @@ titulo: Los Segretos de la Agada Paskuala
 data: 2023.04.09
 balabaya: Eliezer Papo
 musafires:
-id:
+id: 123
 ---
 
-[1:09] Keridos amigos. Vinidos en bonora.
-[1:12] Chag Pesach Sameach
-
-Estamos en ... en la festival de Pesach ke pasatesg los dos primeros dias muy alegres kontentes
-i kon el savor de Pesach 
-kontinuar todos estos dias ke eskapa Pesach i podemos otra vez komer muestros panizikos i muestro chametz.
-
-[1:43] Komo kada semana la bienvenida vo a partajar mi ekran para kontarvoz ke vamos a tener en los proksioms dias.
-[1:56] Estamos en meuestro Enkontro de Alhad numero 123 i vamos a tener el proksimo alhad un enkontro de Aktivistas mansevos del ladino.
-[2:15] Esto sera por parte de los Shadarim kon su balabay Bryan Kirschen 
-[2:22] i kon la musafira Esther Rute, muchos de vozotros konose is estuvo otrso 
-[2:30] Eya tambien shadar de la Autorida nasional de ladino esta vas a ser alhad 16 avril en las mismas oras ke tenemos kada semana.
-[2:43] i vos kero dezir ke los filmos de programas pasados i el mismo el filmo de oy muy ermoso por Pesach i muestra Agada
-i esto segretos ke vamos a konoser oy Si keres a tornar a ver otros programas podesh ir a [YouTube](https://youtube.com/esefarad) o
-direktamente a [sSefarad](https://esefarad.com/TV) ande   programes de los enkontros
+[0:00] Keridos amigos. Vinidos en bonora. Chag Pesach Sameach.
+[0:06] Estamos entre mientres en la festividad de Pesach i vos suerto ke pasatesh los dos primeros dias
+[0:16] muy alegres i kontentes.
+[0:20] i kon el savor de Pesach komo estas ...
+[0:23] i ke vas a kontinuar todos estos dias ke eskapa Pesach i podemos otra vez komer muestros panizikos i muestro chametz.
+[0.35] Komo kada semana vos do la bienvenida vos, vo a partajar mi ekran para kontarvoz ke vamos a tener en los proksioms dias.
+[0:47] Estamos en meuestro Enkontro de Alhad numero 123 i vamos a tener el proksimo alhad un enkontro de Aktivistas mansevos del ladino.
+[1:05] Esto sera por parte de los Shadarim kon su balabay Bryan Kirschen
+[1:12] i kon la musafira Esther Rute, muchos de vozotros konose is estuvo kon  vozotros
+[1:20] Eya es tambien shadar de la Autorida nasional de ladino esta vas a ser alhad 16 avril en las mismas oras ke tenemos kada semana.
+[1:33] i vos kero dezir ke los filmos de programas pasados i mismo el filmo de programa de oy
+[1:42] muy, muy ermoso por Pesach i port muestra Agada
+[1:45] i estos segretos ke vamos a konoser oy.
+[1:49] Si keres a tornar a ver otros programas podesh ir a [YouTube](https://youtube.com/esefarad)
+[1:56] o direktamente a [sSefarad](https://esefarad.com/TV) ande  nos oramente vas a enkontrarlos  programes de los enkontros
 si no otros tambien videos i filmikos sovre tematika sefaradi muy interesante.
 [3:22] Semos ke muiestro ayudo podes entrar  [sSefarad](https://esefarad.com/enkontros) i darmos vuestro kolaborasion
 engrasio muncho ke kada semana mos asen yegar a su   su dono para kontinuar mas de estos ermozos programes
