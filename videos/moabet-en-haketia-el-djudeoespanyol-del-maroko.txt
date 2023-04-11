@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=YPckO0QYYMc
+titulo: Moabet en haketia: el djudeoespanyol del Maroko
+data: 2020.12.06
+balabaya: Bryan Kirschen
+musafires: Alicia Sisso Raz
+id: 15
+---
+

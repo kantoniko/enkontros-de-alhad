@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=likJcNNGF58
+titulo: Estambol Djudyo
+data: 2020.11.15
+balabaya: Rachel Amado Bortnik
+musafires: Roz Kohen
+id: 12
+---
+

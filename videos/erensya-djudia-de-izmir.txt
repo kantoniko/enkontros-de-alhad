@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=qYvw4lUqzBA
+titulo: Erensya djudia de Izmir
+data: 2021.01.17
+balabaya: Amado Bortnick
+musafires: Nissim Benjoya
+id: 21
+---
+

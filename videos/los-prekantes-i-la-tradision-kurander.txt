@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=gaorjDrMmM4
+titulo: Los prekantes i la tradison kurander
+data: 2020.12.27
+balabaya: Tamar Alexander
+musafires: Eliezer Papo
+id: 18
+---
+
