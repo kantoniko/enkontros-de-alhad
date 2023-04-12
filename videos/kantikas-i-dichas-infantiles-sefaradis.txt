@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=8Q6T39Si6Rk
+titulo: Kantikas i dichas infantiles sefaradis
+data: 2021.07.25
+balabaya: Kobi Zarco, Roni Aranya
+musafires:  Izzet Bana, Susana Shahak
+id: 44
+---
+

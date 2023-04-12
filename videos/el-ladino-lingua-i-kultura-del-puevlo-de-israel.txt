@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=ha8HqMzN-Co
+titulo: El ladino: lingua i kultura del Puevlo de Israel
+data: 2021.08.08
+balabaya: Dr. Dov Cohen
+musafires: Dr. Ilil Baum
+id: 46
+---
+

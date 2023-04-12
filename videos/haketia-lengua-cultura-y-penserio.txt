@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=fYraKdhwAw4
+titulo: Ḥaketía: lengua, cultura y penserio
+data: 2021.06.27
+balabaya: Alicia Sisso Raz
+musafires: Sonia Cohen de Azagury, Line Amsalem, Susana Weich-Shahak
+id: 42
+---
+

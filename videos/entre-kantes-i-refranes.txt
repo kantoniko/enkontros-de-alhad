@@ -4,6 +4,6 @@ titulo: Entre Kantes i Refranes
 data: 2020.10.18
 balabaya: Tamar Alexander
 musafires: Kobi Zarco
-id: 9
+id: 8
 ---
 

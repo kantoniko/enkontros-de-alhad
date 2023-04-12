@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=POomQvZWMsE
+titulo: Djidios Norteamerikanos i su Ladino
+data: 2023.04.02
+balabaya:  Rav Nissim Elnecave
+musafires: Prof. Gloria Ascher
+id: 41
+---
+

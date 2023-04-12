@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=ZB8q8j4g49Q
+titulo: El muevo diksionario dijital del ladino
+data: 2021.06.20
+balabaya: Eliezer Papo
+musafires: Can Evrensel Rodrik
+id: 40
+---
+

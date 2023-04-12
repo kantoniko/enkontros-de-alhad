@@ -4,6 +4,6 @@ titulo: El amor por el Ladino
 data: 2020.11.29
 balabaya: Shmuel Refael
 musafires: Selim Salti
-id: 13
+id: 14
 ---
 

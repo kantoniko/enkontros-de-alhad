@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=BTTSfqtYKtA
+titulo: Ladinoavlantes: ¿La ultima jenerasyon?
+data: 2021.07.11
+balabaya: Dr. Devin Naar
+musafires: Benni Aguado
+id: 43
+---
+
