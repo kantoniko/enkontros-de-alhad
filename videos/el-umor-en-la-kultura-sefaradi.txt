@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=AtYa2SHwI84
 titulo: El umor en la kultura sefaradi
 data: 2020.12.20
 balabaya: Eliezer Pappo
-musafires: Karen Sharhon
+musafires: Karen Gerson Sarhon
 id: 17
 ---
 

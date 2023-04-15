@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=C1Qo4CDiaHE
 titulo: Preparando para tomar la bandera
 data: 2021.11.28
-balabaya: Karen Sharhon
+balabaya: Karen Gerson Sarhon
 musafires: Nesi Altaras
 id:  61
 ---

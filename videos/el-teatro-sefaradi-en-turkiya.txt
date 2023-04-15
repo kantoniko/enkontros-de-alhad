@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=rCOPpOE-96c
 titulo: El Teatro Sefaradí en Turkiya
 data: 2023.03.26
-balabaya: Karen Sharhon
+balabaya: Karen Gerson Sarhon
 musafires: Jojo Eskenazi
 id: 121
 ---

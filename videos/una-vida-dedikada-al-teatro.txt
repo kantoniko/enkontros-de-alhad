@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=LjVaUpUJvuM
 titulo: Una Vida Dedikada al Teatro
 data: 2021.08.22
-balabaya: Karen Sharhon
+balabaya: Karen Gerson Sarhon
 musafires: Rozet Hubeş
 id: 48
 ---

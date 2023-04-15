@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=j55iEvv2YXE
 titulo: Amor por el teatro
 data: 2021.01.24
-balabaya: Karen Sharhon
+balabaya: Karen Gerson Sarhon
 musafires: Forti Barokas
 id: 22
 ---
