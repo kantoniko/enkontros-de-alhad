@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=2kQre6LWYBQ
 titulo: Los archivos de Saloniko
 data: 2021.01.03
-balabaya: Devin Naar
+balabaya: Dr. Devin Naar
 musafires: Dr. Izo Abram
 id: 19
 ---

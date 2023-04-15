@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=iDOWfQX9vUc
 titulo: Djudaizmo Sefaradi i el Djudaizmo Amerikano
 data: 2023.04.30
-balabaya: Devin Naar
+balabaya: Dr. Devin Naar
 musafires: Rifat Sonsino
 id:
 ---
