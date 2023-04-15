@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=F4UzsAkBI9Q
 titulo: Ḥaketía: de lengua y ĝente
 data: 2021.10.17
-balabaya: Alicia Sisso Raz
+balabaya: Prof. Alicia Sisso Raz
 musafires: Yaakov Bentolila, Abraham Bengio
 id: 55
 ---

@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=hxUKsj_X8H4
 titulo: El Memorial de los djudeo-espanyoles deportados de Fransya
 data: 2020.12.13
 balabaya: Jenny Laneurie
-musafires: Edmond Koen, Mathilde Pessah
+musafires: Edmond Cohen, Mathilde Pessah
 id: 16
 ---
 

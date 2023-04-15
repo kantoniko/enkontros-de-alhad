@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=9iENl0mQMIg
 titulo: Prezervar el Ladino en Ladino
 data: 2021.08.01
 balabaya: Dr. Carlos Yebra López
-musafires: Aldo Sevi
+musafires: Dr. Aldo Sevi
 id: 45
 ---
 
