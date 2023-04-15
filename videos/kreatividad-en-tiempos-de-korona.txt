@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=VdRJCTwKWIg
+titulo: Kreatividad en Tiempos de Korona
+data: 2021.10.10
+balabaya: Karen Sharhon
+musafires: Seyfi Isman
+id: 54
+---
+

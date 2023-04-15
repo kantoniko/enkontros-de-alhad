@@ -4,6 +4,6 @@ titulo: Una Vida Dedikada al Teatro
 data: 2021.08.22
 balabaya: Karen Sharhon
 musafires: Rozet Hubeş
-id:
+id: 48
 ---
 

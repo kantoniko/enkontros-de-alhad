@@ -4,6 +4,6 @@ titulo: Omero trezladado al Ladino
 data: 2021.09.05
 balabaya: Liliana Benveniste
 musafires: Dr. Avner Perez
-id: 49
+id: 50
 ---
 

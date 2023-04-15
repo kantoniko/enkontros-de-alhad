@@ -4,6 +4,6 @@ titulo: Avlantes muevos: Elevos Avansados de Ladino
 data: 2021.09.19
 balabaya: Bryan Kischen
 musafires: Elevos de ladino
-id: 50
+id: 51
 ---
 

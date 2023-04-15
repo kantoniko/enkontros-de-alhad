@@ -4,6 +4,6 @@ titulo: La noche blanka de Oshana Raba
 data: 2021.09.26
 balabaya: Eliezer Papo
 musafires: Moni Moreno Ermoza
-id:
+id: 52
 ---
 
