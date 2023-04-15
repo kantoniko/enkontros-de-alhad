@@ -4,6 +4,6 @@ titulo: Preparando para tomar la bandera
 data: 2021.11.28
 balabaya: Karen Sharhon
 musafires: Nesi Altaras
-id:
+id:  61
 ---
 
