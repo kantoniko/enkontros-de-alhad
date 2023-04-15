@@ -4,6 +4,6 @@ titulo: Bozes de la Turkia, la Grecha, i los Balkanes.
 data: 2022.04.17
 balabaya: Dr. Devin Naar
 musafires: Pandelis Mavrogiannis
-id:
+id: 80
 ---
 

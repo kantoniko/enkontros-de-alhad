@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=nbTZC-o9Bcs
+titulo: La lingua ke akompanya mi vida
+data: 2022.04.24
+balabaya: Prof. Shmuel Refael
+musafires: Dr. Nitza Dori
+id:
+---
+

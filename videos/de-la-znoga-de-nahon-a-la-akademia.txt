@@ -4,6 +4,6 @@ titulo: De la Znoga de Nahon a la Akademia
 data: 2022.04.03
 balabaya: Abraham Bengio
 musafires: Carlos Levy
-id:
+id: 78
 ---
 

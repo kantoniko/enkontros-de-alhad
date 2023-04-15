@@ -4,6 +4,6 @@ titulo: Ensenyamiento dijital de ladino
 data: 2022.04.10
 balabaya: Alejandro Acero
 musafires: Kent Fredholm
-id:
+id: 79
 ---
 

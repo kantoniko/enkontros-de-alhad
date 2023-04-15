@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=Z-o-zwXJkZU
 titulo: Kazamientos d'al tiempo
 data: 2021.10.03
 balabaya: Jenny Laneurie
-musafires: Marie-Christine Varol, Edmond Cohen
+musafires: Prof. Marie-Christine Varol, Edmond Cohen
 id: 53
 ---
 

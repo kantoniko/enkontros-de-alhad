@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=d5PatjEBWGs
 titulo: La Tombola de la Noche de Alhad
 data: 2022.02.13
 balabaya: Jenny Laneurie
-musafires: Marie-Christine Varol, Guy Albala
+musafires: Prof. Marie-Christine Varol, Guy Albala
 id: 71
 ---
 

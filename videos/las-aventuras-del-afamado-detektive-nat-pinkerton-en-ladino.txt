@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=4gonw36EdNE
+titulo: Las aventuras del afamado detektive Nat Pinkerton en ladino
+data: 2022.05.08
+balabaya: Katka Smid
+musafires: Julie Scolnik
+id:
+---
+
