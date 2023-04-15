@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=3KQZ924Rknw
+titulo: La desgrasia de la memoria i la alegria de eskrivir
+data: 2021.08.29
+balabaya: Tamar Alexander
+musafires: Moshe Haelion
+id: 48
+---
+
