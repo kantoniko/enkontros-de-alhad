@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=v0-dN_dQ9AA
+titulo: La seria 'EL KLUB' en Netflix
+data: 2021.12.12
+balabaya: Karen Sarhon
+musafires: Izzet Bana, Forti Barokas
+id: 62
+---
+

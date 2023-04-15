@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=XaHHvz4k_bQ
+titulo: El Raporto entre el Ladino i el Yiddish
+data: 2021.11.14
+balabaya: Dr Carlos Yebra López
+musafires: Gustavo Emos
+id: 59
+---
+
