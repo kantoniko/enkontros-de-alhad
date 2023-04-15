@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=n07eFal3WPE
+titulo: Deskuvrir el Sefaradismo
+data: 2022.06.19
+balabaya: Rachel Amado Bortnick
+musafires: Rav Nissim Elnecave
+id:
+---
+

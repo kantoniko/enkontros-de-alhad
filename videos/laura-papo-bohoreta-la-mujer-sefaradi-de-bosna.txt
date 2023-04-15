@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=-K1ZKgzSC2k
+titulo: Laura Papo Bohoreta: La mujer sefaradi de Bosna
+data: 2022.07.31
+balabaya: Dr. Bryan Kirschen
+musafires: Dr. Jagoda Večernia
+id:
+---
+

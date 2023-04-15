@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=qPN63-rmLt8
+titulo: Una Aventura kon el Judeo-Espanyol
+data: 2022.05.29
+balabaya: Karen Sharhon
+musafires: Kenan Cruz Çilli
+id:
+---
+

@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=XeiNOmMV44U
+titulo: Haketia en la Universidad de Haifa
+data: 2022.06.26
+balabaya: Alicia Sisso Raz
+musafires: Dr. David Benhamu Jimenez
+id:
+---
+

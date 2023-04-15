@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=9DUfyA5N1sY
+titulo: Ladino: la lingua de la neshama
+data: 2022.07.03
+balabaya: Dr. Carlos Yebra López
+musafires: Bella Ríos
+id:
+---
+

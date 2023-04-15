@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=QZhazjT6ngM
+titulo: Ladinokomunita El sirkolo de korrespondensia en ladino
+data: 2022.07.24
+balabaya: Dr. Aldo Sevi
+musafires: Rachel Amado Bortnick, Dr. Yaffa Shuhami
+id:
+---
+

@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=xZaS9ERhjxY
+titulo: Un sefaradi de Estambol a Nu York
+data: 2022.06.12
+balabaya: Liliana Benveniste
+musafires: Jake Kohenak
+id:
+---
+

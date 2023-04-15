@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=G7wwn20CpLU
+titulo: Un kamino intelektual i la tradision sefaradide Estambol a Cincinnati
+data: 2022.07.10
+balabaya: Dr. Devin Naar
+musafires: Nimet Jerusalmi
+id:
+---
+
