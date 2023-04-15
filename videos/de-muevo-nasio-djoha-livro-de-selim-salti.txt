@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=-DYZgcgKyRM
+titulo: De muevo nasio Djoha: livro de Selim Salti
+data: 2022.12.11
+balabaya: Prof. Shmuel Refael
+musafires: Dr. Selim Salti
+id:
+---
+

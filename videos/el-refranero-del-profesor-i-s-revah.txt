@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=8xdxiTYTOJk
+titulo: El refranero del profesor I.S.Révah
+data: 2022.11.27
+balabaya: Izo Abram
+musafires: Dr. Sarah Gimenez
+id:
+---
+

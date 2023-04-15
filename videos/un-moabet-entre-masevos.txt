@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=yr8Yw8KI7G4
+titulo: Un moabet entre masevos
+data: 2022.12.18
+balabaya: Nesi Altaras
+musafires: Lexi Fellus
+id:
+---
+

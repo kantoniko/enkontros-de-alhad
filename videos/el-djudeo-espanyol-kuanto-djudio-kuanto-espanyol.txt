@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=oRHAbXv5cU8
+titulo: El Djudeo-espanyol, kuanto djudio, kuanto espanyol
+data: 2022.12.04
+balabaya: Dr. Eliezer Papo
+musafires: Dr. Carlos Yebra Lopez
+id:
+---
+
