@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=u8xl8LDatZE
 titulo: Jenny Laneurie, rekodros de mi famiya
 data: 2022.08.21
-balabaya: M.Christine Varol
+balabaya: Marie-Christine Varol
 musafires: Jenny Laneurie
 id: 96
 ---

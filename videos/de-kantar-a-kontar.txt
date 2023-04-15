@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=MAk6rVTvRKY&list=PLFJlHs1AE7pWOABnaTrjLMMQStJhJ8kwO&index=89
 titulo: De kantar a kontar
 data: 2021.08.15
-balabaya: Rachel Bortnick Amado
+balabaya: Rachel Amado Bortnick
 musafires: Gloria Levy Kirchheimer
 id: 47
 ---
