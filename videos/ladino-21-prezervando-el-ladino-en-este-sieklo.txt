@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=jOvHV61YYbY
+titulo: Ladino 21: Prezervando el ladino en este sieklo
+data: 2022.10.02
+balabaya: Alejandro Acero
+musafires: Dr. Carlos Yebra Lopez
+id:
+---
+

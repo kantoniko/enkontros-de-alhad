@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=ckHHF493rDM
+titulo: TEATRO EN LADINO "The ladino Players" de Nu York
+data: 2022.11.20
+balabaya: Dr. Bryan Kirschen
+musafires: Prof. Daisy Braverman
+id:
+---
+

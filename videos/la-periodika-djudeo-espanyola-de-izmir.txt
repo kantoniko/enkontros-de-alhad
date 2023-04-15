@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=PvkAZcARpYA
+titulo: La periodika Djudeo-espanyola de Izmir
+data: 2022.11.06
+balabaya: Eliezer Papo
+musafires: Rachel Saba Wolfe
+id:
+---
+
