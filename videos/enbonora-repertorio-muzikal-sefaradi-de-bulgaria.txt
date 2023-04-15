@@ -4,6 +4,6 @@ titulo: Enbonora! Repertorio muzikal sefaradi de Bulgaria
 data: 2022.01.30
 balabaya: Kobi Zarco
 musafires: Yitshak Ino Yitshak, Susana Weich-Shahak, Rony Aranya
-id:
+id: 69
 ---
 

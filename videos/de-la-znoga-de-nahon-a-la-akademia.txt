@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=UrhJ3F4AGcM
+titulo: De la Znoga de Nahon a la Akademia
+data: 2022.04.03
+balabaya: Abraham Bengio
+musafires: Carlos Levy
+id:
+---
+

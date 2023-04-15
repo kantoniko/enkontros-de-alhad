@@ -4,6 +4,6 @@ titulo: Imnos de Auschwitz - Konsierto Omaje a Viktor Ullman i Michel Assael
 data: 2022.03.27
 balabaya: Joe Halio
 musafires: Renan Kohen, Rav Nissim Elnecave
-id:
+id: 76
 ---
 

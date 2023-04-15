@@ -4,6 +4,6 @@ titulo: El Ladino mos se arebivyo en la Pandemya
 data: 2022.02.27
 balabaya: Karen Gerson Sarhon
 musafires: Haym Behmoaras
-id:
+id: 73
 ---
 
