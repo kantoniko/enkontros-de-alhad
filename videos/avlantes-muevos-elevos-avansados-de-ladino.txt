@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=aaM1pe5r4MA
 titulo: Avlantes muevos: Elevos Avansados de Ladino
 data: 2021.09.19
-balabaya: Bryan Kischen
+balabaya: Bryan Kirschen
 musafires: Elevos de ladino
 id: 51
 ---
