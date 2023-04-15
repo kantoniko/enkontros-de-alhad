@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=XWUXk0ht_kI
 titulo: Estreyikas del mundo
 data: 2021.01.10
-balabaya: Rav. Nissim Elnecave
+balabaya: Rav Nissim Elnecave
 musafires: Izzet Bana
 id: 20
 ---
