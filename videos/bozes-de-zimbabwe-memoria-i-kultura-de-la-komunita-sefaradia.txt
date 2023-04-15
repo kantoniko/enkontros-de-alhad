@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=8-SpbVJ7jyo
+titulo: Bozes de Zimbabwe: Memoria i Kultura de la komunita Sefaradia
+data: 2022.02.06
+balabaya: Bryan Kirschen
+musafires: Vivienne Capelouto, Stella Hanan Cohen, Hannah Pressman, Henry Tarica
+id:
+---
+

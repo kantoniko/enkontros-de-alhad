@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=cLGQr7RjGfk
+titulo: Dize la Muerte" Una version medievala sefaradí de la Danza de la Muerte
+data: 2022.03.13
+balabaya: Eliezer Papo
+musafires: David Manrique
+id:
+---
+
