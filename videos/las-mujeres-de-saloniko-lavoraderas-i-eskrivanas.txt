@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=EkwmT7Lk3hw
+titulo: Las Mujeres de Saloniko: Lavoraderas i Eskrivanas
+data: 2022.01.16
+balabaya: Dr. Devin Naar
+musafires: Dr. Gila Hadar
+id: 67
+---
+
