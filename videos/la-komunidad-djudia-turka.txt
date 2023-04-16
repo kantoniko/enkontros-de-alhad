@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=1SdUdAHFsPQ
+titulo: La Komunidad Djudia Turka
+data: 2023.01.08
+balabaya: Rachel Amado Bortnick
+musafires: Silvyo Ovadia
+id:
+---
+
