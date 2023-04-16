@@ -1,0 +1,9 @@
+---
+url: https://www.youtube.com/watch?v=Fwr_yK5BdtQ
+titulo: El asilado en la isla, Robinson Crusoe en sefaradí
+data: 2023.01.22
+balabaya: Dr. Katka Smid
+musafires: Dr. Marta Kacprzak
+id:
+---
+
