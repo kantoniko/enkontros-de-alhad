@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=vVagLLr4HGI
 titulo: Aki Yerushalayim: Komo editar una revista kulturala
 data: 2022.05.01
-balabaya: Aldo Sevi
+balabaya: Dr. Aldo Sevi
 musafires: Moshe Shaul
 id:
 ---

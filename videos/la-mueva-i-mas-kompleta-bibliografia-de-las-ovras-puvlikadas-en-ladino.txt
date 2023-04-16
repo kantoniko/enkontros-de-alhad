@@ -3,7 +3,7 @@ url: https://www.youtube.com/watch?v=gvEuZT2wwqA
 titulo: La mueva i mas kompleta bibliografia de las ovras puvlikadas en Ladino
 data: 2022.01.23
 balabaya: Shmuel Refael
-musafires: Dov Cohen
+musafires: Dr. Dov Cohen
 id: 68
 ---
 
